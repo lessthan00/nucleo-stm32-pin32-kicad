@@ -7,3 +7,5 @@ https://www.st.com.cn/zh/evaluation-tools/stm32-nucleo-boards/products.html?quer
 https://www.st.com.cn/zh/evaluation-tools/nucleo-l432kc.html#cad-resources
 
 [datasheet](https://www.st.com/resource/en/datasheet/stm32l432kc.pdf)
+
+这是最小开发板,为了32pin的stm32
